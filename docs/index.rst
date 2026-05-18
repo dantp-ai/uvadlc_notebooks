@@ -186,3 +186,8 @@ If you find the tutorials helpful and would like to cite them, you can use the f
    tutorial_notebooks/DL2/sampling/graphs.ipynb
    tutorial_notebooks/DL2/Causality_and_CRL/citris-tutorial.ipynb
 
+.. toctree::
+    :caption: Work in Progress Pure PyTorch
+    :maxdepth: 2
+
+    tutorial_notebooks/PyTorch/tutorial1/work_in_progress.ipynb
