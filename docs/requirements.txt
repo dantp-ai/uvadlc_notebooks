@@ -1,7 +1,7 @@
 Sphinx==7.4.7
 sphinx-rtd-theme==3.1.0
 readthedocs-sphinx-ext
-nbsphinx==0.8.6
+nbsphinx==0.9.8
 ipython
 Pygments==2.20.0
 sphinxcontrib-bibtex>=2.1
